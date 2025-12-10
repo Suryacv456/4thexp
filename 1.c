@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()
+ int main()
 {
 push();
   pop();
@@ -17,3 +17,5 @@ create();
 {
   
 }
+return o;
+
