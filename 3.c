@@ -1,4 +1,5 @@
-thrid program
-hello
+thrid program;
+hello;
 hi
+;;..
 
